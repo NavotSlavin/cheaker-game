@@ -1,4 +1,4 @@
-# cheaker-game
- cheaker-game implement in c#
+# checkers
+ implement in c#
 
  object oriented project
