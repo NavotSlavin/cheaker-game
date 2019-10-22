@@ -1,0 +1,2 @@
+/Users/navotslavin/Desktop/B18 Ex02 Navot 203538608 Orr 032504888/B18_Ex02_Navot203538608_Orr032504888/obj/Debug/B18_Ex02_01.csprojAssemblyReference.cache
+/Users/navotslavin/Desktop/B18 Ex02 Navot 203538608 Orr 032504888/B18_Ex02_Navot203538608_Orr032504888/obj/Debug/B18_Ex02_01.csproj.CoreCompileInputs.cache
